@@ -1,0 +1,41 @@
+Item,Category,Archetype,Base_Level
+Brake Pads Set,Brakes,stable,420
+Brake Disc Rotor,Brakes,stable,260
+Brake Caliper,Brakes,intermittent,70
+Brake Fluid (1L),Fluids,seasonal_summer,300
+Oil Filter,Filters,stable,900
+Air Filter,Filters,seasonal_summer,520
+Cabin Air Filter,Filters,seasonal_summer,480
+Fuel Filter,Filters,stable,300
+Alternator,Electrical,stable,150
+Starter Motor,Electrical,intermittent,90
+Car Battery 12V,Electrical,seasonal_winter,560
+Spark Plug (4-pack),Electrical,stable,640
+Ignition Coil,Electrical,stable,210
+LED Headlight Bulb,Electrical,trend_up,380
+Halogen Headlight,Electrical,trend_down,300
+Wiper Motor,Electrical,seasonal_winter,120
+Engine Oil 5W-30 (5L),Fluids,stable,1100
+Transmission Fluid (1L),Fluids,stable,340
+Coolant Antifreeze (1L),Fluids,seasonal_winter,520
+Power Steering Fluid,Fluids,stable,180
+Timing Belt Kit,Engine,stable,170
+Serpentine Belt,Engine,stable,240
+Water Pump,Engine,intermittent,95
+Radiator,Engine,seasonal_summer,230
+Thermostat,Engine,stable,160
+Fuel Pump,Engine,intermittent,110
+Clutch Kit,Drivetrain,intermittent,60
+CV Joint Boot,Drivetrain,stable,200
+Shock Absorber,Suspension,stable,260
+Strut Assembly,Suspension,stable,190
+Tie Rod End,Suspension,stable,230
+Ball Joint,Suspension,stable,210
+Control Arm,Suspension,intermittent,85
+Wheel Bearing,Suspension,stable,240
+Windshield Wiper Set,Exterior,seasonal_winter,700
+Side Mirror,Exterior,promo,140
+Door Handle,Exterior,promo,120
+Floor Mat Set,Accessories,holiday,260
+Tire Pressure Sensor,Electronics,new_product,150
+Dash Camera,Accessories,holiday,110

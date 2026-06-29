@@ -1,0 +1,9 @@
+sios_venv/
+__pycache__/
+*.pyc
+.git/
+*.tar
+*.png
+*.docx
+README.md
+run_ui.bat

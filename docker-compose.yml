@@ -1,0 +1,8 @@
+services:
+  sios:
+    build: .
+    image: sios-demand-forecasting:latest
+    container_name: sios
+    ports:
+      - "8501:8501"
+    restart: unless-stopped

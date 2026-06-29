@@ -1,0 +1,43 @@
+{
+  "train_rows": 12800,
+  "test_rows": 2400,
+  "test_months": [
+    "2024-09",
+    "2025-02"
+  ],
+  "results": {
+    "Naive (last month)": {
+      "MAE": 59.42,
+      "RMSE": 99.57,
+      "WAPE_%": 18.22,
+      "MASE": 1.297
+    },
+    "Seasonal-naive (lag 12)": {
+      "MAE": 45.8,
+      "RMSE": 81.31,
+      "WAPE_%": 14.04,
+      "MASE": 1.0
+    },
+    "Moving average (3m)": {
+      "MAE": 63.08,
+      "RMSE": 111.23,
+      "WAPE_%": 19.34,
+      "MASE": 1.377
+    },
+    "GBDT (no holidays)": {
+      "MAE": 40.81,
+      "RMSE": 68.94,
+      "WAPE_%": 12.51,
+      "MASE": 0.891
+    },
+    "GBDT (+ holidays)": {
+      "MAE": 32.69,
+      "RMSE": 49.62,
+      "WAPE_%": 10.02,
+      "MASE": 0.714
+    }
+  },
+  "holiday_wape_improvement_pp": 2.49,
+  "n_items": 40,
+  "n_sites": 10
+}

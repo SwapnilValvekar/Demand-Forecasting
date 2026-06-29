@@ -1,0 +1,6 @@
+,MAE,RMSE,WAPE_%,MASE
+Naive (last month),59.42,99.57,18.22,1.297
+Seasonal-naive (lag 12),45.8,81.31,14.04,1.0
+Moving average (3m),63.08,111.23,19.34,1.377
+GBDT (no holidays),40.81,68.94,12.51,0.891
+GBDT (+ holidays),32.69,49.62,10.02,0.714

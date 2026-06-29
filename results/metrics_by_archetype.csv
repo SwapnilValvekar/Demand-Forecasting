@@ -1,0 +1,10 @@
+Archetype,n,WAPE_snaive,WAPE_GBDT,improvement_pp
+seasonal_winter,240,5.9,5.2,0.7
+seasonal_summer,240,6.1,6.9,-0.8
+trend_up,60,15.6,7.6,8.0
+stable,1140,10.0,7.8,2.2
+trend_down,60,21.5,9.0,12.5
+new_product,60,5.8,10.5,-4.7
+promo,120,40.3,17.4,22.9
+holiday,120,47.6,18.3,29.3
+intermittent,360,106.0,98.2,7.8

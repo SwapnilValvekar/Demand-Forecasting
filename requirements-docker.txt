@@ -1,0 +1,8 @@
+pandas==3.0.3
+numpy==2.5.0
+scikit-learn==1.9.0
+scipy==1.18.0
+matplotlib==3.11.0
+streamlit==1.58.0
+plotly==6.8.0
+holidays==0.99
